@@ -145,3 +145,12 @@ MESSAGE_TAGS ={
     messages.ERROR:'danger',
 
 }
+
+#Email config
+
+EMAIL_HOST = 'smtp.hushmail.com'
+EMAIL_PORT = 587
+EMAIL_HOST_USER = 'btrerealestate058@gmail.com'
+#EMAIL_HOST_PASSWORD='Vksujji@18'
+EMAIL_USE_TLS=True
+EMAIL_USE_SSL=False
